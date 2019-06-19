@@ -3,9 +3,25 @@ body {
     background: #D1F0B1;
     font-weight: 700;
     font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+    
 
 }
 img{
-    width: 50%;
+    width: 75%;
+  
+
+}
+.hero{
+    background-image: url('../img/machupicchu.jpg');
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }

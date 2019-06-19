@@ -1,5 +1,6 @@
 1. Téléchargement de Visual Studio Code (version non entreprise) 
 2. Pour ouvrir et mettre en ligne un site avec un domain plus cheap, il faut utiliser git.hub (plus cheap que Word Press and Wix)
+Mon user name c'est MelS2121 et pass: Wlsp5
 3. Tout d'abord, il faut créer un dossier dans le quel tout le code va être contenu.
 4. Il faut ensuite ouvrir le dossier dans Visual Studio Code.
 5. Dans l'index, ce qui va apparaitre sur internet se trouve entre les deux lignes Body
@@ -7,10 +8,14 @@
 7. Créée un sous-dossier nommé style.css tout un index (click droit dans le dossier projet coding)
 8. Se rappeler que l'ordi lit ligne par ligne. On doit mettre les font téléchargés dans Google Fonts aant le dossier style. Mettre 
 9 Coolors.co pour choisir des couleurs pour le site.
-10. Pour changr le font, écrire:  font-family
+10. Pour changr le font, écrire:  font-family, font-
 
    font-family: 'Montserrat', sans-serif;
    font-family: 'Merriweather', serif;
 
-11. Pour ajouter une image, tapper: img + enter, trouve image online   (Google: unsplash, site de photo sans copywrite)
+dans l'index, copy/paste le texte associé au font (dans customize)
 
+11. Pour ajouter une image, enregistrer l'image dans le fichier img) tapper: img + enter, trouve image online   (Google: unsplash, site de photo sans copywrite)
+12. div pour fabriquer des boites et pouvoir jouer avec
+
+13. Pour mettre une image en back-ground, utiliser les code back groud. Pour bien comprendre les marges, check css box model - Google Search
